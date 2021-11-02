@@ -1,0 +1,14 @@
+
+11월 01, 2021 18:59:39.83 NEW SESSION
+11월 01, 2021 18:59:39.83 [14280:15712:1101/185939.833:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+11월 01, 2021 18:59:39.83 [14280:15712:1101/185939.833:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+11월 01, 2021 18:59:39.83 [14280:15712:1101/185939.833:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+11월 01, 2021 18:59:39.83 [14280:15712:1101/185939.834:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
+11월 01, 2021 18:59:39.83 [14280:11180:1101/185939.834:ERROR:device_event_log_impl.cc(214)] [18:59:39.834] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+11월 01, 2021 20:01:50.75 NEW SESSION
+11월 01, 2021 20:01:50.75 [13264:8676:1101/200150.754:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+11월 01, 2021 20:01:50.75 [13264:8676:1101/200150.754:ERROR:chrome_browser_main_extra_parts_metrics.cc(233)] crbug.com/1216328: Checking Bluetooth availability ended.
+11월 01, 2021 20:01:50.76 [13264:8676:1101/200150.754:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+11월 01, 2021 20:01:50.76 [13264:8676:1101/200150.757:ERROR:chrome_browser_main_extra_parts_metrics.cc(240)] crbug.com/1216328: Checking default browser status ended.
+11월 01, 2021 20:01:50.76 [13264:15788:1101/200150.759:ERROR:device_event_log_impl.cc(214)] [20:01:50.759] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
